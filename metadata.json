@@ -1,6 +1,7 @@
 {
-  "name": "NOBRO",
-  "symbol": "NB",
-  "description": "WHY",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png" 
+  "name": "HI THERE",
+  "symbol": "HI",
+  "description": "WHY HI",
+  "image": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=040",
+  "uri": "https://raw.githubusercontent.com/joe-knowscode/test/main/metadata.json"
 }
