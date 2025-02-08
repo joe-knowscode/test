@@ -1,6 +1,6 @@
 {
-  name: "YOYO",
-  symbol: "⚔️",
-  description: "Joe Joe",
-  image: "https://en.wikipedia.org/wiki/Google_logo#/media/File:Google_2015_logo.svg" 
+  "name": "YOYO",
+  "symbol": "⚔️",
+  "description": "Joe Joe",
+  "image": "https://en.wikipedia.org/wiki/Google_logo#/media/File:Google_2015_logo.svg" 
 }
